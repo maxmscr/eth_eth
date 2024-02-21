@@ -8,10 +8,10 @@
 
 ## 下载安装 
 
-首先从本项目的 [Releases](https://github.com/riba2534/rare_eth/releases) 中找到符合自己平台的二进制文件下载，下载完成后重命名为 `rare_eth` 📥，如果程序没有可执行权限请手动加一下:
+首先从本项目的  中找到符合自己平台的二进制文件下载，下载完成后重命名为 `rare_eth` 📥，如果程序没有可执行权限请手动加一下:
 
 ```bash
-chmod +x rare_eth
+chmod +x eth_eth
 ```
 
 ## 使用方法
